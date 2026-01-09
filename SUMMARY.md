@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Tricaster huong dan su dung  ](README.md)
+* [Tricaster Hướng dẫn Sử dụng](README.md)
