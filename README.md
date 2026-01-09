@@ -4,6 +4,8 @@
 
 ## TriCaster 2 Elite
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## Chương 1
 
 ## Hướng dẫn sử dụng
@@ -22,7 +24,7 @@ Hướng dẫn này cho biết một số thứ cần biết để thực hiện
 
 xuất hiện ngay sau khi bạn bật nguồn hệ thống sản xuất trực tiếp. Đây là trung tâm chỉ huy nơi các dự án sản xuất của bạn được cấu hình và khởi chạy.
 
-!\[]\[image2]
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Trang chủ của Launch Screen cung cấp một số chức năng quan trọng, đặc biệt là cho phép bạn tạo (và mở lại) phiên session. Session - Phiên là một khái niệm quan trọng - về cơ bản là một cài đặt trước tùy chỉnh được chuẩn bị cho một sản phẩm riêng lẻ hoặc mục đích khác. Sau đó, khi bạn vào lại một phiên hiện có, tất cả nội dung, cài đặt và thậm chí cả trạng thái kiểm soát của phiên đó sẽ được ghi nhớ.
 
@@ -32,7 +34,7 @@ Tất cả các tính năng sản xuất trực tiếp của hệ thống đều
 
 Các tính năng, điều khiển và mô-đun khác nhau bao gồm trong Live Desktop được sắp xếp thành các dải ngang
 
-!\[]\[image3]
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Dải ngang hàng đầu là Dashboard.
 
