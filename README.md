@@ -1,10 +1,10 @@
-# Tricaster huong dan su dung &#x20;
+# Tricaster Hướng dẫn Sử dụng
 
 ## Tổng quan và Hướng dẫn sử dụng TriCaster
 
 ## TriCaster 2 Elite
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ## Chương 1
 
@@ -24,7 +24,7 @@ Hướng dẫn này cho biết một số thứ cần biết để thực hiện
 
 xuất hiện ngay sau khi bạn bật nguồn hệ thống sản xuất trực tiếp. Đây là trung tâm chỉ huy nơi các dự án sản xuất của bạn được cấu hình và khởi chạy.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Trang chủ của Launch Screen cung cấp một số chức năng quan trọng, đặc biệt là cho phép bạn tạo (và mở lại) phiên session. Session - Phiên là một khái niệm quan trọng - về cơ bản là một cài đặt trước tùy chỉnh được chuẩn bị cho một sản phẩm riêng lẻ hoặc mục đích khác. Sau đó, khi bạn vào lại một phiên hiện có, tất cả nội dung, cài đặt và thậm chí cả trạng thái kiểm soát của phiên đó sẽ được ghi nhớ.
 
@@ -34,7 +34,7 @@ Tất cả các tính năng sản xuất trực tiếp của hệ thống đều
 
 Các tính năng, điều khiển và mô-đun khác nhau bao gồm trong Live Desktop được sắp xếp thành các dải ngang
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Dải ngang hàng đầu là Dashboard.
 
@@ -70,7 +70,7 @@ Khung này có thể được thay đổi kích thước, thậm chí ẩn hoàn
 
 Khởi động TriCaster để vào **Màn hình Khởi động** (Launch Screen).
 
-!\[]\[image4]
+<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -90,12 +90,12 @@ Sau khi tạo/mở, hệ thống sẽ chuyển đến **Màn hình Trực tiếp
 
 Cấu hình đầu vào được thực hiện trong tab **Input** của bảng **Setup** (Chương 8).
 
-!\[A screenshot of a computerAI-generated content may be incorrect.]\[image5]
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 1. Trên **Màn hình Trực tiếp (Live Desktop)**, nhấp vào nút **Setup** (Thiết lập) trên **Dashboard**.
 2.  Trong giao diện **Cấu hình I/O (I/O Configuration)**, chọn tab **Input** (Đầu vào).
 
-    !\[]\[image6]
+    <figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
     Để truy cập toàn bộ các tùy chọn cấu hình và tính năng cho một đầu vào cụ thể, hãy nhấp vào bánh răng cấu hình trong cột "Cấu hình" ở ngoài cùng bên phải cho từng đầu vào riêng lẻ.
 3. Chọn nguồn: tại đây, có thể:
@@ -103,16 +103,14 @@ Cấu hình đầu vào được thực hiện trong tab **Input** của bảng 
    * **Chọn Loại Kết nối:** Đối với các nguồn không phải NDI, có thể cần chọn phương thức kết nối và cài đặt tùy chọn.
 4.  Cấu hình Đầu ra (Output Configuration):
 
-    !\[]\[image7]
+    <figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 Cấu hình đầu ra được thực hiện trong tab **Output** của bảng **Setup** (Chương 8).
 
 * Có thể cấu hình các **Đầu ra Chính** (Primary Outputs) và **Đầu ra Bổ sung** (Supplemental Outputs).
-* Sử dụng tính năng **Sync** (Đồng bộ) trong tab **Sync** để khóa đầu ra video của TriCaster với tín hiệu tham chiếu ngoài (Genlock) nếu cần thiết.
+* Sử dụng tính năng **Sync** (Đồng bộ) trong tab **Sync** để khóa đầu ra video của TriCaster với tín hiệu đồng bộ ngoài (Genlock) nếu cần thiết.
 
-!\[]\[image7]
-
-!\[A screenshot of a computerAI-generated content may be incorrect.]\[image8]
+<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 Các ngõ ra có thể gán:
 
@@ -130,13 +128,13 @@ Các ngõ ra có thể gán:
 
 Bấm vào tab _Bộ trộn âm thanh_ (được đặt chính giữa ở một phần ba dưới của _Live Desktop_) để hiển thị các tính năng âm thanh, bao gồm các điều khiển cấu hình cho tất cả các nguồn và đầu ra âm thanh bên trong và bên ngoài, bao gồm cả phát trực tuyến.
 
-!\[A screenshot of a computerAI-generated content may be incorrect.]\[image9]
+<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Mỗi đầu vào và đầu ra có cột điều khiển riêng với các _Volume_ slider(s), VU meter(s), và các tính năng tiện lợi khác. Một nhãn tên nhận dạng nằm ở đầu mỗi bảng điều khiển.
 
 Di con trỏ chuột qua nhãn để hiển thị _Configuration button_ (bánh răng) ở bên phải, khi được nhấp, sẽ mở _Configuration_ bảng điều khiển cho đầu vào.
 
-!\[]\[image10]
+<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 Trong bảng điều khiển thứ hai này, hãy nhấp vào biểu tượng _Connection_ menu để hiển thị các tùy chọn cho đầu vào, sẽ thấy các đầu vào phần cứng cục bộ được liệt kê trong _Local_ group như “IN 1”, “IN 2”, v.v.
 
@@ -144,7 +142,7 @@ Kết nối cục bộ trong một số kiểu máy có thể được chỉ đ�
 
 #### Cấu hình NDI Genlock
 
-!\[A screenshot of a computerAI-generated content may be incorrect.]\[image11]
+<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 Tính năng Đồng bộ hóa Sync cho phép TriCaster 'khóa' đầu ra video hoặc tín hiệu NDI của nó, với thời gian bắt nguồn từ tín hiệu tham chiếu bên ngoài (đồng bộ hóa cục bộ, chẳng hạn như black burst ) được cung cấp cho đầu nối đầu vào genlock của nó.
 
@@ -152,7 +150,7 @@ Tính năng Đồng bộ hóa Sync cho phép TriCaster 'khóa' đầu ra video h
 
 Khi genlocking đang hoạt động và được định cấu hình đúng cách, mã thời gian trên _thanh tiêu đề_ sẽ hiển thị màu xanh lục.
 
-!\[]\[image12]
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 ## Chương 4
 
@@ -162,7 +160,7 @@ Tuy nhiên, trước tiên, hãy lưu ý rằng (vì lý do bảo mật) các t�
 
 Ban đầu, tên người dùng và mật khẩu đều được đặt thành "**admin**"
 
-!\[]\[image13]
+<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 ## Chương 5
 
@@ -181,23 +179,29 @@ Bất kỳ sản xuất nào cũng liên quan đến một môi trường hoạt
 1. Tiêu chuẩn phát sóng nào được sử dụng ở ngôn ngữ của bạn? Đó có phải là _PAL_, phổ biến ở châu Âu trong số những nơi khác, hay có lẽ là _tiêu chuẩn NTSC_ trên khắp Bắc Mỹ?
 2. Máy quay có được kết nối bằng đầu vào phần cứng (trên các kiểu máy hỗ trợ), NDI hay kết hợp cả hai loại kết nối không?
 
-!\[A screenshot of a computerAI-generated content may be incorrect.]\[image14]
+<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
-!\[]\[image15]
+
+
+<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 Chọn PAL HD và 1080/50i, SDR
 
-!\[A screenshot of a computerAI-generated content may be incorrect.]\[image16]
+<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-!\[]\[image17]
+
+
+<figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 Thông thường, vài giây sau khi khởi động chạy, TriCaster sẽ tự động tải lại phiên cuối cùng mà bạn đã tham gia, cho phép bạn về cơ bản sử dụng phiên cuối cùng mà không cần giám sát. Tất nhiên, bạn có thể làm gián đoạn quá trình này bằng cách chọn một phiên khác hoặc nhấn bất kỳ phím nào.
 
-Người dùng nâng cao có thể sửa đổi hành vi này, bằng cách chỉ định một phiên cụ thể để tự động khởi chạy bất kể lựa chọn thủ công gần đây nhất hoặc bằng cách tắt hoàn toàn tính năng này. !\[]\[image18]
+Người dùng nâng cao có thể sửa đổi hành vi này, bằng cách chỉ định một phiên cụ thể để tự động khởi chạy bất kể lựa chọn thủ công gần đây nhất hoặc bằng cách tắt hoàn toàn tính năng này.&#x20;
+
+<figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 Các phiên có sẵn được nhóm trên _Session Page_ dưới tên của ổ đĩa lưu trữ mà chúng được đặt trên đó. Danh sách hiển thị _Session Name_ và _Format_ cho mỗi phiên, trên mỗi ổ đĩa. Phía trên danh sách là một tùy chọn để tìm kiếm một phiên riêng lẻ. Cho phép xem xét _Sessions List_ ngắn gọn trước khi chúng ta mở một phiên.
 
-!\[A screenshot of a computerAI-generated content may be incorrect.]\[image19]
+<figure><img src=".gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 _Manage Session_ trong biểu tượng nhóm _Session Details_ cung cấp một cách tiếp cận thay thế để quản lý tệp. Đôi khi, bạn có thể thấy hữu ích khi có thể truy cập nhanh các tệp khác nhau được liên kết với các phiên cụ thể.
 
@@ -213,9 +217,11 @@ Vizrt cung cấp các công cụ phần mềm bổ sung để mở rộng sức 
 
 Khi bạn chọn biểu tượng _Tiện ích bổ sung Add-Ons_, các liên kết được hiển thị ở bên phải cho các ứng dụng phần mềm đã cài đặt, cho phép bạn khởi chạy chúng.
 
-!\[]\[image20]
+<figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 ### Thoát khỏi TriCaster
+
+<figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -237,13 +243,13 @@ Tắt hệ thống.
 {% endstep %}
 {% endstepper %}
 
-!\[]\[image21]
+
 
 ## Chương 6
 
 ## Màn hình Trực tiếp | Yêu cầu hiển thị, tổng quan và tùy chỉnh giao diện
 
-!\[A screenshot of a video editing programAI-generated content may be incorrect.]\[image22]
+<figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 _Live Desktop_ cung cấp phản hồi trực quan cho các hoạt động, bao gồm giám sát, chuyển hình trực tiếp, v.v. Mặc dù hiếm khi cần thiết để nó xuất hiện nhiều như hình trên, nhưng chúng tôi hiển thị nó theo cách này để minh họa rằng nó có thể được chia thành năm dải ngang, được mô tả từ trên xuống dưới trong bảng sau.
 
@@ -285,7 +291,7 @@ Audio (mixer) – cấu hình đầu vào, điều khiển mức, EQ và Compres
 
 Mở rộng _Name/Comment_ group trong tệp _Input_ tab của _Input Configuration_ bảng điều khiển, bằng cách nhấp vào hình tam giác xoay xuống ở bên trái. Nhóm này chứa một số trường văn bản có thể chỉnh sửa, bao gồm _Video_ (Nhãn hiển thị dưới màn hình), nhãn ngắn hơn Switcher _Button_, và nhãn dài _Comment_.
 
-!\[]\[image23]
+<figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 ### Workspaces
 
@@ -293,9 +299,9 @@ Các bố cục khác nhau và các tùy chọn giám sát tùy chỉnh cho _Liv
 
 Khi một hoặc nhiều _Multiviews_ màn hình đang được sử dụng, _Workspace có các_ tùy chọn đặt trước có thể được kết hợp với tính linh hoạt cao, cho phép bạn xem _nội dung_ bạn muốn xem ở _đâu_ khi muốn xem.
 
-!\[]\[image24]
+<figure><img src=".gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-!\[]\[image25]
+<figure><img src=".gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 ## Chương 7
 
@@ -305,11 +311,11 @@ Khi một hoặc nhiều _Multiviews_ màn hình đang được sử dụng, _Wo
 
 là nơi có một số màn hình, công cụ và điều khiển quan trọng. Nằm nổi bật ở trên cùng của Live Desktop, nó chiếm toàn bộ chiều rộng của màn hình.
 
-!\[]\[image26]
+<figure><img src=".gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 Nửa bên phải của _Bảng điều khiển_ Dashboard chứa các tính năng và công cụ bổ sung được truy cập thường xuyên hơn, vì lý do đó chúng được hiển thị toàn thời gian. Các yếu tố khác nhau bao gồm toàn bộ _Bảng điều khiển_ Dashboard được liệt kê bên dưới (bắt đầu từ bên trái)
 
-!\[]\[image27]
+<figure><img src=".gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 ## Chương 8
 
@@ -327,19 +333,19 @@ Hỗ trợ NDI cung cấp cho bạn khả năng đầu vào và đầu ra gần 
 
 TriCaster Vizion có _tab Đầu vào Input_ trong Bảng cài đặt, nhấp vào _tab Cài đặt Setup_ nằm trong _Bảng điều khiển Dashboard_ và sau đó nhấp vào _tab Đầu vào_.
 
-!\[]\[image28]
+<figure><img src=".gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 Nhấp vào biểu tượng cấu hình (bánh răng) hiển thị ở phía dưới bên phải khi con trỏ chuột được cuộn qua phía trên cổng cần cấu hình
 
-!\[]\[image29]
+<figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 Nhóm Cục bộ Local trong menu Nguồn Source (hiển thị bên dưới) bao gồm các nguồn được kết nối cục bộ với đầu vào phần cứng của hệ thống, bất kỳ nguồn phần cứng cục bộ nào khác được phát hiện (chẳng hạn như webcam), ứng dụng hội nghị truyền hình, cùng với các kết nối Skype TX Caller được lưu trữ bởi hệ thống cục bộ và Ngõ Màu đen Black
 
-!\[A screenshot of a computerAI-generated content may be incorrect.]\[image30]
+<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 ### Record
 
-!\[]\[image31]
+<figure><img src=".gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 Các hệ thống sản xuất trực tiếp của TriCaster cung cấp rất nhiều tính linh hoạt khi nắm bắt chương trình của bạn, các yếu tố được chọn của nó và một loạt các nguồn bên trong và bên ngoài (với mã thời gian TC được nhúng).
 
@@ -349,13 +355,15 @@ mang lại khả năng ghi hình mạnh mẽ.
 
 Đầu ra chính của TriCaster có thể định cấu hình; bạn có thể chụp _Chương trình_, _Chương trình (Sạch),_ các nguồn _Bộ chuyển đổi_ riêng lẻ, các _M/E, v.v. Tùy thuộc vào kiểu máy TriCaster của bạn, bạn có thể quay đồng thời tối đa tám nguồn video "Mix" như vậy và cũng có thể chụp các nguồn Switcher riêng lẻ (khả năng ghi khác nhau tùy theo kiểu máy và cũng bị ảnh hưởng bởi băng thông và dung lượng lưu trữ)._
 
-!\[A screenshot of a computer programAI-generated content may be incorrect.]\[image32]
+<figure><img src=".gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
-!\[]\[image33]
+
+
+<figure><img src=".gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 ### Replay
 
-!\[A screenshot of a computerAI-generated content may be incorrect.]\[image34]
+<figure><img src=".gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 _Replay Duration_ – xác định độ dài của các clip phát lại được thêm vào _DDR_
 
@@ -369,7 +377,7 @@ Bạn có thể tạo tiêu đề và đồ họa tĩnh trong Adobe Photoshop ho
 
 Tuy nhiên, thay vào đó, bạn sẽ thấy hữu ích khi tạo một trang tiêu đề _có thể chỉnh sửa_ trong Photoshop, sau khi được tải và biên dịch bởi TriCaster dưới dạng tệp CGXML gốc, hoạt động giống như những trang được cung cấp cùng với hệ thống của bạn. Văn bản vẫn có thể chỉnh sửa và hình ảnh được nhúng cũng có thể được đánh dấu là có thể thay thế.
 
-!\[A screenshot of a computerAI-generated content may be incorrect.]\[image35]
+<figure><img src=".gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 ## Chương 9
 
@@ -377,7 +385,7 @@ Tuy nhiên, thay vào đó, bạn sẽ thấy hữu ích khi tạo một trang t
 
 ### Các chế độ Switcher, Lớp nền (Background) và DSK, Comps/MEMs
 
-!\[]\[image36]
+<figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 Các Live Desktop có các tính năng tái tạo các điều khiển trình chuyển đổi video truyền thống theo cách dễ hiểu và dễ sử dụng. Live Desktop có các điều khiển chuyển tiếp mạnh mẽ, các kênh lớp phủ xuôi dòng, màn hình lớp tương tác và các tính năng tự động hóa mạnh mẽ.
 
@@ -385,7 +393,7 @@ Phần trung tâm của _Live Desktop_ (giữa phần giám sát và các mô-đ
 
 ### Phần chọn hình
 
-!\[]\[image37]
+<figure><img src=".gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 Theo tiêu chuẩn _Switcher_ mode, hai hàng _Switcher_ được gắn nhãn _PGM_ (Program), và _PREV_ (Xem trước). Bấm vào nút trong hàng _Chương trình PGM_ hoặc _Xem trước PREV_ sẽ chọn nguồn video đang hoạt động cho bus đó (lưu ý rằng các nguồn âm thanh có thể tùy chọn bị ảnh hưởng bởi _hoạt động_ của Trình chuyển đổi).
 
@@ -403,14 +411,14 @@ Các lớp DSK thường được sử dụng để phủ đồ họa, tiêu đ�
 * Các lớp phủ (DSK) được cấu tạo phía trên lớp BKGD trên đầu ra. DSK 2 xuất hiện 'trước' DSK 1 trên Đầu ra chương trình — nghĩa là gần nhất với người xem — v.v. theo thứ tự.
 * FTB (Fade to Black) tạo thành một lớp phủ cuối cùng — một lớp che khuất tất cả các lớp khác khi áp dụng.
 
-!\[]\[image38]
+<figure><img src=".gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 Cũng nên nhớ rằng bản thân lớp _BKGD_ thường là một tổ hợp của các lớp con:
 
 * Nó có thể bao gồm video hỗn hợp từ cả _hai hàng_ Program hay Preview.
 * Chọn _M/E_ làm nguồn trên _Program_ or _Preview_ có thể thêm nhiều lớp con vào thành phần _BKGD_, bao gồm _Đầu vào_ chính của _M/E và các lớp KEY chuyên dụng_.
 
-!\[A screenshot of a video editing programAI-generated content may be incorrect.]\[image39]
+<figure><img src=".gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 Mỗi lớp _DSK_ có một chế độ xem video trực tiếp hiển thị nguồn hiện tại được gán cho nó (sử dụng menu ngay phía trên khung nhìn) và hiệu ứng chuyển tiếp của riêng nó.
 
@@ -418,13 +426,13 @@ Nhấp vào biểu tượng chuyển tiếp ở phía dưới bên trái bên d�
 
 Nhấp vào một mục trong bảng màu để chọn hoặc di chuyển con trỏ chuột đến dấu "+" bật lên cho mỗi biểu tượng và nhấp để mở _Custom Media Browser._
 
-!\[]\[image40]
+<figure><img src=".gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 Bạn cũng có thể kiểm soát tiến trình chuyển đổi bằng cách sử dụng _điều khiển T-Bar_ của Bộ chuyển đổi, ở bên trái. _T-Bar_ hoạt động trên tất cả các _lớp video được ủy quyền_. Để ủy quyền DSK, hãy nhấp vào nhãn của DSK ở phía trên bên trái để chuyển sang màu xanh lam. Nhấp vào nó lần thứ hai sẽ hủy ủy quyền layer.
 
 _T-Bar_ hoạt động trên tất cả các lớp được ủy quyền, bao gồm cả lớp Video nền. Ví dụ: nếu _DSK 1_ hiển thị, nhưng _DSK 2_ thì không, khi cả _DSK_ và _BKGD_ đều được ủy quyền, thực hiện thao tác T-Bar (hoặc BKGD AUTO) sẽ đảo ngược khả năng hiển thị của hai _DSK trên đầu ra Chương trình_ khi quá trình chuyển đổi _BKGD_ xảy ra.
 
-!\[]\[image41]
+<figure><img src=".gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 Mỗi thời gian chuyển tiếp được đặt và lưu trữ trong bảng hiệu ứng, sử dụng điều khiển thời lượng số bên cạnh biểu tượng hiệu ứng.
 
@@ -432,7 +440,7 @@ Chọn tốc độ chuyển tiếp bằng cách sử dụng menu bên dưới _T
 
 ### Cấu hình nguồn DSK
 
-!\[]\[image42]
+<figure><img src=".gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 Nhiều tùy chọn cấu hình khác có sẵn cho _DSK (và các lớp phím M/E)_.
 
@@ -442,9 +450,9 @@ Làm như vậy sẽ mở _Input Configuration_ bảng điều khiển cho ngu�
 
 Các nhóm điều khiển trong tab mới này mở rộng để hiển thị _Position_, _Crop, Apply with COMP_, _Borders, Edges and Shadows_.
 
-### Vị trí (và cắt)
+### Vị trí (và cắt hình)
 
-!\[]\[image43]
+![](<.gitbook/assets/image (61).png>)
 
 Nhóm kiểm soát vị trí bao gồm _Position_, _Zoom, Rotation_, và _Priority_. _Position_ Cài đặt có thể được bật và tắt cùng nhau bằng cách sử dụng công tắc được cung cấp trong tiêu đề nhóm.
 
@@ -466,17 +474,17 @@ Sự khác biệt chính giữa _MEM_ và _Comps_ là cái trước giữ lại 
 
 ### Chuyển đổi nền
 
-!\[]\[image44]
+<figure><img src=".gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 Bộ chọn tứ giác nằm giữa hàng _Switcher_ và các điều khiển _DSK_ ở bên phải. _Cut_ và _Bộ chọn chế độ Crossfade_ đứng đầu nhóm điều khiển này. Chỉ cần nhấp hoặc nhấn vào các nút _Cut_ hoặc _Crossfade_ để kích hoạt _Background transition_.
 
 ### Giao diện và Multiview
 
-!\[]\[image45]
+<figure><img src=".gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 _Live Desktop_ Cung cấp một số màn hình đa hình hiển thị — một trên _Live Desktop_ (hay còn gọi là "Giao diện"), thường bao gồm một phần ba trên của nó và các màn hình khác bao gồm các màn hình hoàn toàn độc lập được trình bày trên đầu ra màn hình phụ trên bảng kết nối phía sau (số lượng đa chế độ xem thay đổi tùy theo kiểu máy).
 
-!\[]\[image45]
+<figure><img src=".gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 ## Chương 10
 
@@ -486,19 +494,19 @@ Giám sát Video, Media Players & Buffers, LiveGraphics, LiveMatte, Công cụ M
 
 ### Interface and Multiview
 
-!\[]\[image46]
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Live Desktop Cung cấp một số màn hình đa quan sát — một trên Live Desktop (hay còn gọi là "Giao diện"), thường bao gồm một phần ba trên của nó và các màn hình khác bao gồm các màn hình hoàn toàn độc lập được trình bày trên đầu ra màn hình phụ trên bảng kết nối phía sau.
 
 ### Scopes
 
-!\[]\[image47]
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Scopes đại diện cho một tùy chọn giám sát rất hữu ích, cung cấp hiển Waveform và Vectorscope.
 
 ### Program Monitor
 
-!\[]\[image48]
+
 
 #### Program Output
 
@@ -512,9 +520,9 @@ Theo mặc định, Program output được gửi đến đầu ra MIX 1, tùy t
 
 Media Players Cho phép bạn tích hợp video, ảnh tĩnh và trang tiêu đề vào bản trình bày trực tiếp của mình. Hiển thị phương tiện media tuần tự dưới dạng danh sách phát hoặc theo yêu cầu. Trình phát đa phương tiện có thể phát, dừng và tự động tiến lên để đáp ứng các hoạt động của Bộ chuyển đổi. Hiệu ứng bộ đệm hoạt hình hoàn hảo cho nhiều mục đích tương tự, giải phóng Media Player để sử dụng để phát lại dạng dài.
 
-!\[]\[image49]
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-!\[]\[image50]
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 #### Media Player
 
@@ -529,13 +537,13 @@ có thể xử lý nhiều loại phương tiện:
 
 Tính năng nổi bật của tất cả các Trình phát đa phương tiện Media Player là danh sách phát kiểu bảng phân cảnh, được sử dụng để sắp xếp nội dung để sử dụng trong quá trình sản xuất trực tiếp.
 
-!\[]\[image51]
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 #### LiveMatte
 
 Mặc dù các điều khiển của nó có vẻ đơn giản, nhưng tính năng LiveMatte™ sử dụng công nghệ xử lý màu mạnh mẽ, có khả năng mang lại kết quả chất lượng cực cao. Được sử dụng riêng lẻ hoặc kết hợp với DSK, M/E Overlays và các tính năng LiveSet, LiveMatte có thể đóng một vai trò quan trọng trong các sản phẩm trực tiếp.
 
-!\[]\[image52]
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Chromakeying — hoặc đơn giản là "keying" — được sử dụng để kết hợp hình ảnh bằng cách loại bỏ một phần của hình ảnh tiền cảnh để tiết lộ một nền khác. Phương pháp này cũng được sử dụng để chèn vật thể một cách liền mạch vào các bộ ảo thông qua LiveSet™.
 
@@ -545,7 +553,7 @@ Phương pháp mà một phần của hình ảnh được xác định là tron
 
 #### Hiểu về Keying
 
-!\[]\[image53]
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Chromakeying đã trở thành một công cụ thiết yếu trong sản xuất video và phim. Thông thường, cảnh quay tiền cảnh được quay trước màn hình xanh lam hoặc xanh lá cây, và sau đó màu nền đó — màu _chính_ — được coi là trong suốt, cho phép chèn một hình ảnh khác.
 
@@ -555,13 +563,13 @@ Key tốt thường đòi hỏi sự cân bằng thận trọng giữa 'quá nhi
 
 #### Matte
 
-!\[]\[image54]
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Thuật ngữ Matte đề cập đến một biểu diễn đen trắng xác định các phần trong suốt (nền) và mờ đục (tiền cảnh) của hình ảnh trong quá trình tổng hợp.
 
 Các phần mờ có màu xám được coi là bán trong suốt, rất hữu ích trong việc làm mịn dần các cạnh giữa vật liệu nguồn tiền cảnh và hình nền được chèn vào.
 
-!\[]\[image55]
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 LiveMatte cung cấp phiên bản kỹ thuật số của công cụ truyền thống này. Các điều khiển trong nhóm này cho phép bạn xác định và điều chỉnh mờ cho đầu vào video tương ứng.
 
@@ -575,7 +583,7 @@ Không có màn hình xanh vật lý nào có màu hoàn hảo. Dung sai Toleran
 
 #### Các chế độ LiveMatte
 
-!\[]\[image56]
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Mode menu trong nhóm điều khiển Keying liệt kê một số phương pháp KEY tùy chọn. Mỗi loại đều có ưu điểm riêng và cách điều khiển khác nhau.
 
@@ -594,7 +602,7 @@ Một vài gợi ý chuẩn bị:
 
 #### Crop Source
 
-!\[]\[image57]
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 _Crop Source_ nằm trong tab _Image_ ngay bên dưới _LiveMatte_, có thể dùng như một 'mờ rác' để loại bỏ micrô, thiết bị chiếu sáng hoặc các khuyết điểm khác bị chụp vào khung.
 
@@ -602,7 +610,7 @@ _Crop Source_ nằm trong tab _Image_ ngay bên dưới _LiveMatte_, có thể d
 
 Một bảng khung có thẻ có nhãn _Bộ trộn âm thanh Audio Mixer_, được tìm thấy ngay bên dưới Bộ chuyển đổi Switcher chính thể hiện khả năng kiểm soát chính xác hơn đối với các nguồn và đầu ra âm thanh riêng lẻ.
 
-!\[]\[image58]
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Các bảng phụ nhỏ gọn trong ngăn này cung cấp cấu hình và điều khiển cho các nguồn âm thanh riêng lẻ và cả đầu ra âm thanh như sau, từ trái sang phải:
 
@@ -621,11 +629,11 @@ _Đầu ra Âm tương tự ở bảng nối đa năng mang hai kênh đầu ti�
 
 ### Kiểu bàn điều khiển: 2 & 4 Stripe
 
-!\[]\[image59]
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 Bàn điều khiển và TriCaster của bạn phải được kết nối với cùng một mạng con.
 
-!\[]\[image60]
+<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Để cho phép bạn quản lý các kết nối điều khiển này, NewTek Control Surfaces Tiện ích cấu hình đã được đưa vào danh sách Add-Ons.
 
@@ -639,7 +647,7 @@ Tiện ích sẽ tự động xác định và liệt kê các bề mặt điề
 {% endstep %}
 {% endstepper %}
 
-!\[]\[image61]
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Tiện ích NewTek Control Surface xác định kênh mà mỗi bề mặt điều khiển đang bật bằng một số từ 1-8 sau dấu hai chấm trong cột Surface: (Channel). Thông thường, bạn có thể chỉ cần đặt Kênh cục bộ Local Channel để khớp với giá trị này (sẽ có cảnh báo nếu kênh mà Bộ điều khiển được đặt không khớp với Kênh cục bộ Local Channel).
 
@@ -650,7 +658,7 @@ Nếu cần sửa đổi kênh mà bề mặt điều khiển được đặt:
 
 Với các cài đặt này, bạn có thể đặt một hệ thống để nghe một Bộ điều khiển nhất định trên kênh 1 và một thiết bị khác trên kênh 2 — sau đó dễ dàng chuyển điều khiển giữa các hệ thống bằng cách cập nhật cài đặt kênh Bộ điều khiển.
 
-!\[]\[image62]
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 Các điều khiển trong mỗi dãy ngang có thể được nhóm thành bốn cột sau:
 
@@ -663,7 +671,7 @@ Các điều khiển trong mỗi dãy ngang có thể được nhóm thành bố
 
 Nút ở hàng trên cùng của nhóm Command chính được dán nhãn DLGT STRIPE, là viết tắt của 'delegate stripe'.
 
-!\[]\[image63]
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 Khi bạn nhấn và giữ _DLGT STRIPE_, màn hình LCD sẽ hiển thị trong mỗi bản cập nhật dãy để hiển thị tên của các bus chuyển đổi có sẵn (_MAIN, M/E 1, 2, v.v._) và MIX 1-4.
 
@@ -673,6 +681,6 @@ Ví dụ: Gán dãy dưới cùng là MAIN và dãy kế tiếp thứ 2 là M/E1
 
 ## Phụ lục
 
-Phụ lục A-F: Tính năng & Thông số kỹ thuật, Kết nối TriCaster (Video, Audio, Genlock), Live Call Connect, Hiệu chỉnh Video, và Phím tắt.
+Tính năng & Thông số kỹ thuật, Kết nối TriCaster (Video, Audio, Genlock), Live Call Connect, Hiệu chỉnh Video, và Phím tắt.
 
 ***
