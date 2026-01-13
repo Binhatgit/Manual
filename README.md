@@ -12,7 +12,13 @@
 
 Tài liệu hướng dẫn sử dụng TriCaster bao gồm nhiều khía cạnh của việc sản xuất video trực tiếp.
 
+Tham khảo file hướng dẫn gốc. <a href="https://downloads.newtek.com/LiveProductionSystems/TC2Elite/TC2.pdf" class="button primary">Link</a>
+
+{% embed url="https://downloads.newtek.com/LiveProductionSystems/TC2Elite/TC2.pdf" %}
+
 Hướng dẫn này cho biết một số thứ cần biết để thực hiện các sử dụng hệ thống sản xuất trực tiếp NewTek. Nó cố gắng truyền tải thông tin cần thiết này một cách thân thiện nhưng ngắn gọn, nếu cần cung cấp một phần tham khảo sâu hơn mà bạn có thể truy cập xem Bản Hướng dẫn sử dụng của NewTek khi bạn thực sự cần thêm chi tiết.
+
+
 
 ## Chương 2
 
@@ -32,7 +38,7 @@ Trang chủ của Launch Screen cung cấp một số chức năng quan trọng,
 
 Tất cả các tính năng sản xuất trực tiếp của hệ thống đều có sẵn từ Live Desktop, theo nhiều cách tương tự thiết bị sản xuất video quen thuộc. Tuy nhiên, Live Desktop cung cấp nhiều chức năng hơn trong môi trường tích hợp của nó so với các thiết bị một mục đích tương tự.
 
-Các tính năng, điều khiển và mô-đun khác nhau bao gồm trong Live Desktop được sắp xếp thành các dải ngang
+Các tính năng, điều khiển và mô-đun khác nhau bao gồm trong Live Desktop được sắp xếp thành các dải theo chiều ngang.
 
 <figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -50,17 +56,17 @@ Khung này có thể được thay đổi kích thước, thậm chí ẩn hoàn
 
 ## Thiết lập
 
-### Hướng dẫn kết nối phần cứng, đăng ký, cập nhật, và cấu hình A/V
+### Hướng dẫn kết nối phần cứng, đăng ký, cập nhật, và cấu hình Audio/Video
 
 #### Kết nối Phần cứng
 
 * **Yêu cầu Màn hình:** Giao diện người dùng (User Interface) của TriCaster yêu cầu màn hình có độ phân giải tối thiểu là **1920x1080**.
-* **Kết nối Nguồn A/V (Chương 3.6, 3.8, 3.9):**
-  * Kết nối nguồn video (máy ảnh, máy tính, v.v.) và âm thanh của bạn vào các cổng vật lý (ví dụ: SDI, HDMI) hoặc qua mạng bằng **NDI** (Network Device Interface). NDI mang lại khả năng đầu vào và đầu ra gần như không giới hạn.
-  * Kết nối các màn hình đầu ra (Program Monitor, Multiview) của bạn.
+* **Kết nối Nguồn A/V (Chương 3.6, 3.8, 3.9):**&#x20;
+* Kết nối nguồn video (máy ảnh, máy tính, v.v.) và âm thanh của bạn vào các cổng vật lý (ví dụ: SDI, HDMI) hoặc qua mạng bằng **NDI** (Network Device Interface). NDI mang lại khả năng đầu vào và đầu ra gần như không giới hạn.
+* Kết nối các màn hình đầu ra (Program Monitor, Multiview) của bạn.
 *   **Đăng ký và Cập nhật (Chương 3.3, 3.4):** Đảm bảo bạn đã kích hoạt giấy phép (License) của TriCaster và kiểm tra các bản cập nhật hệ thống.
 
-    https://www.vizrt.com/support/product-updates/
+    [https://www.vizrt.com/support/product-updates/](https://www.vizrt.com/support/product-updates/)
 
 #### Bắt đầu Phiên làm việc (Session)
 
@@ -108,7 +114,7 @@ Cấu hình đầu vào được thực hiện trong tab **Input** của bảng 
 Cấu hình đầu ra được thực hiện trong tab **Output** của bảng **Setup** (Chương 8).
 
 * Có thể cấu hình các **Đầu ra Chính** (Primary Outputs) và **Đầu ra Bổ sung** (Supplemental Outputs).
-* Sử dụng tính năng **Sync** (Đồng bộ) trong tab **Sync** để khóa đầu ra video của TriCaster với tín hiệu đồng bộ ngoài (Genlock) nếu cần thiết.
+* Sử dụng tính năng **Sync** (Đồng bộ) trong tab **Sync** để đồng bộ đầu ra video của TriCaster với tín hiệu đồng bộ ngoài (Genlock) nếu cần thiết.
 
 <figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
@@ -117,7 +123,7 @@ Các ngõ ra có thể gán:
 * Preview
 * Luồng từ bất kỳ input
 * Ngõ ra Graphic hay video output từ Media Player
-* Mix Effects
+* Mix Effect
 * Ngõ ra trực tiếp Direct output từ M/E bất kỳ
 * Ngõ ra sạch Clean output từ M/E bất kỳ
 * Ngõ ra Output bộ Buffer bất kỳ
@@ -130,7 +136,7 @@ Bấm vào tab _Bộ trộn âm thanh_ (được đặt chính giữa ở một 
 
 <figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
-Mỗi đầu vào và đầu ra có cột điều khiển riêng với các _Volume_ slider(s), VU meter(s), và các tính năng tiện lợi khác. Một nhãn tên nhận dạng nằm ở đầu mỗi bảng điều khiển.
+Mỗi đầu vào và đầu ra có cột điều khiển riêng với các _Volume_ slider, VU meter, và các tính năng tiện lợi khác. Một nhãn tên nhận dạng nằm ở đầu mỗi bảng điều khiển.
 
 Di con trỏ chuột qua nhãn để hiển thị _Configuration button_ (bánh răng) ở bên phải, khi được nhấp, sẽ mở _Configuration_ bảng điều khiển cho đầu vào.
 
