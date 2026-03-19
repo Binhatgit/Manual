@@ -78,6 +78,8 @@ Khung này có thể được thay đổi kích thước, thậm chí ẩn hoàn
 
 ### Hướng dẫn kết nối phần cứng, đăng ký, cập nhật, và cấu hình Audio/Video
 
+Cấu hình và kiểm tra bàn điều khiển: nhấn SHIFT + ALT + SET
+
 #### Kết nối Phần cứng
 
 * **Yêu cầu Màn hình:** Giao diện người dùng (User Interface) của TriCaster yêu cầu màn hình có độ phân giải tối thiểu là **1920x1080**.
