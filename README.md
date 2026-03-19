@@ -18,9 +18,29 @@ Tham khảo file hướng dẫn gốc. <a href="https://downloads.newtek.com/Liv
 
 Hướng dẫn này cho biết một số thứ cần biết để thực hiện các sử dụng hệ thống sản xuất trực tiếp NewTek. Nó cố gắng truyền tải thông tin cần thiết này một cách thân thiện nhưng ngắn gọn, nếu cần cung cấp một phần tham khảo sâu hơn mà bạn có thể truy cập xem Bản Hướng dẫn sử dụng của NewTek khi bạn thực sự cần thêm chi tiết.
 
+**TRICASTER DOWNLOADS**\
+Viz LaunchPad and Viz Remote Control Surface Tool.
 
+{% embed url="https://www.vizrt.com/support/product-updates/tricaster/tricaster-family/" %}
+
+**NICE DCV**\
+Remote Access Software.
+
+{% embed url="https://download.nice-dcv.com/" %}
+
+**NDI TOOLS**\
+NDI Bridge and other useful NDI applications.
+
+{% embed url="https://ndi.video/tools/ndi-core-suite/" %}
+
+**.NET 7.0 DESKTOP RUNTIME**\
+Additional software required for operation.
+
+{% embed url="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.14-windows-x64-installer" %}
 
 ## Chương 2
+
+
 
 ## Giới thiệu
 
