@@ -2,7 +2,7 @@
 
 ## Tổng quan và Hướng dẫn sử dụng TriCaster
 
-## TriCaster 2 Elite
+## TriCaster
 
 <figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
