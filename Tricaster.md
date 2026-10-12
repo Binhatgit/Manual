@@ -1,6 +1,6 @@
 # Tricaster Hướng dẫn Sử dụng
 
-## Tổng quan và Hướng dẫn sử dụng TriCaster
+## Tổng quan và Hướng dẫn sử dụng
 
 ## TriCaster
 
